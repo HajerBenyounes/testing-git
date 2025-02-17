@@ -1,0 +1,36 @@
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\bin\Debug\net6.0\appsettings.json
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\bin\Debug\net6.0\testing git.staticwebassets.runtime.json
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\bin\Debug\net6.0\testing git.staticwebassets.endpoints.json
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\bin\Debug\net6.0\testing git.exe
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\bin\Debug\net6.0\testing git.deps.json
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\bin\Debug\net6.0\testing git.runtimeconfig.json
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\bin\Debug\net6.0\testing git.dll
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\bin\Debug\net6.0\testing git.pdb
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\testing git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\testing git.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\testing git.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\testing git.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\testing git.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\testing git.RazorAssemblyInfo.cache
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\testing git.RazorAssemblyInfo.cs
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\testing git.sourcelink.json
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\scopedcss\bundle\testing git.styles.css
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\scopedcss\projectbundle\testing git.bundle.scp.css
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\staticwebassets\msbuild.testing git.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\staticwebassets\msbuild.testing git.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\staticwebassets\msbuild.build.testing git.props
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.testing git.props
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.testing git.props
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\testing git.dll
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\refint\testing git.dll
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\testing git.pdb
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\testing git.genruntimeconfig.cache
+C:\Users\MSI\Desktop\Formation dev\testing git\testing git\obj\Debug\net6.0\ref\testing git.dll
