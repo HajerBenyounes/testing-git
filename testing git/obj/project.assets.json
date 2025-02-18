@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI\\OneDrive - ISITEC INTERNATIONAL\\Bureau\\Formation dev\\testing git\\testing git\\testing git.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\OneDrive - ISITEC INTERNATIONAL\\Bureau\\Formation dev\\test github desktop\\testing-git\\testing git\\testing git.csproj",
       "projectName": "testing git",
-      "projectPath": "C:\\Users\\MSI\\OneDrive - ISITEC INTERNATIONAL\\Bureau\\Formation dev\\testing git\\testing git\\testing git.csproj",
+      "projectPath": "C:\\Users\\MSI\\OneDrive - ISITEC INTERNATIONAL\\Bureau\\Formation dev\\test github desktop\\testing-git\\testing git\\testing git.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI\\OneDrive - ISITEC INTERNATIONAL\\Bureau\\Formation dev\\testing git\\testing git\\obj\\",
+      "outputPath": "C:\\Users\\MSI\\OneDrive - ISITEC INTERNATIONAL\\Bureau\\Formation dev\\test github desktop\\testing-git\\testing git\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
